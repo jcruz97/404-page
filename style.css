@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+}
+
+.table{
+    line-height: 1em;
+}
+
+.lenny{
+    max-width: 30em;
+}
