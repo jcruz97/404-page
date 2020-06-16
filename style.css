@@ -1,12 +1,28 @@
 body{
     font-family: 'Roboto Mono', monospace;
     font-weight: 500;
+    background-color: #665f5f;
 }
 
 .table{
-    line-height: 1em;
+    line-height: 2em;
+}
+
+button{
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+}
+
+.button-container{
+    margin: 0;
+    padding: 0;
 }
 
 .lenny{
     max-width: 30em;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    image-resolution: auto;
 }
