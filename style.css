@@ -1,8 +1,11 @@
 body{
     font-family: 'Roboto Mono', monospace;
     font-weight: 500;
-    background-color: #665f5f;
+    background-color: #333030;
+    color: antiquewhite;
+    margin-left: 2em;
 }
+
 
 .table{
     line-height: 2em;
@@ -15,7 +18,7 @@ button{
 }
 
 .button-container{
-    margin: 0;
+    margin: 5em 0em 0em 0em;
     padding: 0;
 }
 
@@ -25,10 +28,18 @@ button{
     margin: 0;
     padding: 0;
     image-resolution: auto;
+    
+}
+
+.hint-image{
+    text-align: center;
+    margin: 10em 0em 10em 0em;
+    
 }
 
 footer{
-    font-size: 4px;
+    font-size: 0.700em;
     color: transparent grey;
     max-height: 30vm;
+    text-align: center;
 }
