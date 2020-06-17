@@ -26,3 +26,9 @@ button{
     padding: 0;
     image-resolution: auto;
 }
+
+footer{
+    font-size: 4px;
+    color: transparent grey;
+    max-height: 30vm;
+}
